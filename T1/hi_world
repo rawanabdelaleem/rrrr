@@ -1,0 +1,6 @@
+contacts={'rawan':'01012345678','rana':'01123456789','malak':'01233456789'}
+for name in contacts:
+    print (name)
+print (contacts ['rawan'])
+print (contacts ['rana'])
+print (contacts ['malak'])
